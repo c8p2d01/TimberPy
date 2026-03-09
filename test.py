@@ -211,9 +211,27 @@ def place_logic(px, py):
 world_x =  world["Singletons"]["MapSize"]["Size"]["X"]
 world_y =  world["Singletons"]["MapSize"]["Size"]["Y"]
 
+def set_block(x, y, z):
+    arr = world["Singletons"]["TerrainMap"]["Voxels"]["Array"]
+    index = 2 * (x + y * world_x + (z) * world_x * world_y)
+    arr = arr[index:] + '1' + arr[:index + 1]
+
+def surround_grid(s_x, s_y, c_x, c_y, height):
+    for x in range(c_x * 2):
+        for z in range(height):
+            set_block(s_x - 1 + x, s_y, z)
+            set_block(s_x + c_x * 2 + 1 + x, s_y, z)
+    for y in range(c_y * 2):
+        for z in range(height):
+            set_block(s_x, s_y - 1 + y, z)
+            set_block(s_x + c_x * 2 + 1, s_y - 1 + y, z)
+
+
+
+
 def build_grid():
-    cells_x = 30
-    cells_y = 30
+    cells_x = 5
+    cells_y = 5
 
     start_x = 20
     start_y = 20
@@ -226,6 +244,18 @@ def build_grid():
     for x in range(2, cells_x):
         for y in range(2, cells_y):
             place_logic(start_x + x * 2, start_y + y * 2)
+    
+    # for x in range(world_x):
+    #     for y in range(world_y):
+    #         set_block(x, y, -1)
+    
+    set_block(0, 0, -2)
+    set_block(0, 0, -1)
+    set_block(0, 0, 0)
+    set_block(0, 0, 1)
+    set_block(0, 0, 2)
+
+    # surround_grid(start_x, start_y, cells_x, cells_y, 1)
 
 build_grid()
 
