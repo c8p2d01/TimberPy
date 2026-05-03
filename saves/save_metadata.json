@@ -1,37 +1,5 @@
 {
-    "Timestamp": "03/08/2026 10:00:32",
-    "Cycle": 5,
-    "Day": 12,
-    "Mods": [
-        {
-            "Id": "Tobbert.Ladder",
-            "Name": "Ladder",
-            "Version": "1.0.0.2"
-        },
-        {
-            "Id": "eMka.ModSettings",
-            "Name": "Mod Settings",
-            "Version": "1.0.11.0"
-        },
-        {
-            "Id": "kulesz.FPPCamera",
-            "Name": "FPP Camera",
-            "Version": "1.0.2.0"
-        },
-        {
-            "Id": "MoreTunnels",
-            "Name": "More Tunnels",
-            "Version": "1.4"
-        },
-        {
-            "Id": "BobingaboutTinyTubewayStation",
-            "Name": "Tiny Tubeway Station",
-            "Version": "1.0.11.0"
-        },
-        {
-            "Id": "BobingaboutTubewayLevee",
-            "Name": "Tubeway Levee",
-            "Version": "1.0.7.1"
-        }
-    ]
+    "Timestamp": "04/27/2026 13:10:25",
+    "Cycle": 1,
+    "Day": 5
 }

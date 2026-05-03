@@ -21,7 +21,7 @@ install:
 	fi
 
 	. ./.venv/bin/activate; \
-	uv pip install flake8 ipykernel pydantic uv
+	uv pip install flake8 ipykernel pydantic uv video2images
 
 #	uv init project && cd project && uv add --dev ipykernel && code .
 

@@ -1,6 +1,6 @@
 {
     "GameVersion": "1.0.13.0-1e60728-sw",
-    "Timestamp": "2026-04-27 11:16:01",
+    "Timestamp": "2026-05-01 20:29:26",
     "Singletons": {
         "FactionService": {
             "Id": "IronTeeth"
@@ -68,13 +68,13 @@
         "CameraService": {
             "CameraState": {
                 "Target": {
-                    "X": 17.6677246,
+                    "X": 12.1131124,
                     "Y": 4.36921255E-09,
-                    "Z": 21.6379471
+                    "Z": 3.345543
                 },
-                "ZoomLevel": 2.3285718,
-                "HorizontalAngle": 42.43001,
-                "VerticalAngle": 20.9500046
+                "ZoomLevel": 0.130714178,
+                "HorizontalAngle": 0.630002439,
+                "VerticalAngle": 83.10015
             }
         },
         "ManualMigrationDistrictSetter": {
@@ -82,7 +82,7 @@
             "RightDistrictLastIndex": -1
         },
         "ScienceService": {
-            "SciencePoints": 24410
+            "SciencePoints": 23570
         },
         "WorkplaceUnlockingService": {
             "UnlockedWorkerTypes": []
@@ -420,8 +420,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 111,
-                                    "OutputStock": 111,
+                                    "InputOutputStock": 333,
+                                    "OutputStock": 222,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.6166667
                                 },
@@ -429,8 +429,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 111,
-                                    "OutputStock": 111,
+                                    "InputOutputStock": 333,
+                                    "OutputStock": 222,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.6166667
                                 },
@@ -438,8 +438,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 111,
-                                    "OutputStock": 111,
+                                    "InputOutputStock": 333,
+                                    "OutputStock": 222,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.6166667
                                 },
@@ -447,8 +447,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 111,
-                                    "OutputStock": 111,
+                                    "InputOutputStock": 333,
+                                    "OutputStock": 222,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.6166667
                                 },
@@ -456,8 +456,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 123,
-                                    "OutputStock": 123,
+                                    "InputOutputStock": 369,
+                                    "OutputStock": 246,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.683333337
                                 },
@@ -465,8 +465,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 141,
-                                    "OutputStock": 141,
+                                    "InputOutputStock": 423,
+                                    "OutputStock": 282,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.783333361
                                 },
@@ -474,8 +474,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 141,
-                                    "OutputStock": 141,
+                                    "InputOutputStock": 423,
+                                    "OutputStock": 282,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.783333361
                                 },
@@ -483,8 +483,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 156,
-                                    "OutputStock": 156,
+                                    "InputOutputStock": 468,
+                                    "OutputStock": 312,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8666667
                                 },
@@ -569,8 +569,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -578,8 +578,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -587,8 +587,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -596,8 +596,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 360,
                                     "FillRate": 0.4027778
                                 },
@@ -605,8 +605,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -614,8 +614,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -623,8 +623,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -632,8 +632,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 145,
-                                    "OutputStock": 145,
+                                    "InputOutputStock": 435,
+                                    "OutputStock": 290,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.8055556
                                 },
@@ -641,8 +641,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 166,
-                                    "OutputStock": 166,
+                                    "InputOutputStock": 498,
+                                    "OutputStock": 332,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9222222
                                 },
@@ -650,8 +650,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 180,
-                                    "OutputStock": 180,
+                                    "InputOutputStock": 540,
+                                    "OutputStock": 360,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 1.0
                                 },
@@ -718,8 +718,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 161,
-                                    "OutputStock": 161,
+                                    "InputOutputStock": 483,
+                                    "OutputStock": 322,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.805
                                 },
@@ -727,8 +727,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 161,
-                                    "OutputStock": 161,
+                                    "InputOutputStock": 483,
+                                    "OutputStock": 322,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.805
                                 },
@@ -736,8 +736,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 161,
-                                    "OutputStock": 161,
+                                    "InputOutputStock": 483,
+                                    "OutputStock": 322,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.805
                                 },
@@ -745,8 +745,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 161,
-                                    "OutputStock": 161,
+                                    "InputOutputStock": 483,
+                                    "OutputStock": 322,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.805
                                 },
@@ -754,8 +754,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 161,
-                                    "OutputStock": 161,
+                                    "InputOutputStock": 483,
+                                    "OutputStock": 322,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.805
                                 },
@@ -763,8 +763,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 170,
-                                    "OutputStock": 170,
+                                    "InputOutputStock": 510,
+                                    "OutputStock": 340,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.85
                                 },
@@ -772,8 +772,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 182,
-                                    "OutputStock": 182,
+                                    "InputOutputStock": 546,
+                                    "OutputStock": 364,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.91
                                 },
@@ -867,8 +867,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -876,8 +876,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -885,8 +885,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -894,8 +894,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -903,8 +903,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -912,8 +912,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -921,8 +921,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 191,
-                                    "OutputStock": 191,
+                                    "InputOutputStock": 573,
+                                    "OutputStock": 382,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 0.955
                                 },
@@ -1165,8 +1165,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 162,
-                                    "OutputStock": 162,
+                                    "InputOutputStock": 486,
+                                    "OutputStock": 324,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9
                                 },
@@ -1174,8 +1174,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 162,
-                                    "OutputStock": 162,
+                                    "InputOutputStock": 486,
+                                    "OutputStock": 324,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9
                                 },
@@ -1183,8 +1183,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 162,
-                                    "OutputStock": 162,
+                                    "InputOutputStock": 486,
+                                    "OutputStock": 324,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9
                                 },
@@ -1314,8 +1314,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 200,
-                                    "OutputStock": 200,
+                                    "InputOutputStock": 600,
+                                    "OutputStock": 400,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 1.0
                                 },
@@ -1323,8 +1323,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 200,
-                                    "OutputStock": 200,
+                                    "InputOutputStock": 600,
+                                    "OutputStock": 400,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 1.0
                                 },
@@ -1332,8 +1332,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 200,
-                                    "OutputStock": 200,
+                                    "InputOutputStock": 600,
+                                    "OutputStock": 400,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 1.0
                                 },
@@ -1341,8 +1341,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 200,
-                                    "OutputStock": 200,
+                                    "InputOutputStock": 600,
+                                    "OutputStock": 400,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 1.0
                                 },
@@ -1350,8 +1350,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 200,
-                                    "OutputStock": 200,
+                                    "InputOutputStock": 600,
+                                    "OutputStock": 400,
                                     "InputOutputCapacity": 200,
                                     "FillRate": 1.0
                                 },
@@ -1463,8 +1463,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 164,
-                                    "OutputStock": 164,
+                                    "InputOutputStock": 492,
+                                    "OutputStock": 328,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9111111
                                 },
@@ -1472,8 +1472,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 164,
-                                    "OutputStock": 164,
+                                    "InputOutputStock": 492,
+                                    "OutputStock": 328,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9111111
                                 },
@@ -1481,8 +1481,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 164,
-                                    "OutputStock": 164,
+                                    "InputOutputStock": 492,
+                                    "OutputStock": 328,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9111111
                                 },
@@ -1490,8 +1490,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 164,
-                                    "OutputStock": 164,
+                                    "InputOutputStock": 492,
+                                    "OutputStock": 328,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9111111
                                 },
@@ -1499,8 +1499,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 176,
-                                    "OutputStock": 176,
+                                    "InputOutputStock": 528,
+                                    "OutputStock": 352,
                                     "InputOutputCapacity": 180,
                                     "FillRate": 0.9777778
                                 },
@@ -1910,8 +1910,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 14,
-                                    "OutputStock": 14,
+                                    "InputOutputStock": 42,
+                                    "OutputStock": 28,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.466666669
                                 },
@@ -1919,8 +1919,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 14,
-                                    "OutputStock": 14,
+                                    "InputOutputStock": 42,
+                                    "OutputStock": 28,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.466666669
                                 },
@@ -1928,8 +1928,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 14,
-                                    "OutputStock": 14,
+                                    "InputOutputStock": 42,
+                                    "OutputStock": 28,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.466666669
                                 },
@@ -1937,8 +1937,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 14,
-                                    "OutputStock": 14,
+                                    "InputOutputStock": 42,
+                                    "OutputStock": 28,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.466666669
                                 },
@@ -1946,8 +1946,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 14,
-                                    "OutputStock": 14,
+                                    "InputOutputStock": 42,
+                                    "OutputStock": 28,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.466666669
                                 },
@@ -1955,8 +1955,8 @@
                             },
                             {
                                 "ResourceCount": {
-                                    "InputOutputStock": 19,
-                                    "OutputStock": 19,
+                                    "InputOutputStock": 57,
+                                    "OutputStock": 38,
                                     "InputOutputCapacity": 30,
                                     "FillRate": 0.6333333
                                 },
@@ -5699,8 +5699,8 @@
             "NextNumbers": []
         },
         "DateSaltService": {
-            "DateSaltedId": 807147,
-            "TimeSaltedId": 366751
+            "DateSaltedId": 105063,
+            "TimeSaltedId": 346797
         },
         "WonderCompletionCountdownStarter": {
             "CountdownFinished": false,
@@ -5741,5 +5741,4199 @@
             "ExpandFilter": true
         }
     },
-    "Entities": []
+    "Entities": [
+        {
+            "Id": "d7ded975-3f97-4998-8939-39def0eac6eb",
+            "Template": "Lever.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Sim  Control"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 0,
+                        "Y": 0,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Lever": {
+                    "IsPinned": true
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f487cc43-58c4-4f66-b522-ab47807f8661",
+            "Template": "Timer.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Simul  Clock"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 1,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Timer": {
+                    "Mode": "Oscillator",
+                    "TimerIntervalA": {
+                        "Ticks": 1
+                    },
+                    "TimerIntervalB": {
+                        "Type": "Hours",
+                        "Hours": 1.0
+                    },
+                    "Input": "d7ded975-3f97-4998-8939-39def0eac6eb",
+                    "PreviousInputState": true,
+                    "Counter": 6
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "TreatedPlank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0db62922-9538-4006-9ca9-919092e9cdf2",
+            "Template": "Lever.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "aNum_up"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 1,
+                        "Y": 2,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Lever": {
+                    "IsSpringReturn": true,
+                    "IsPinned": true
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7dc001ad-dc0f-4c3c-b203-a2d7ac8b4c3a",
+            "Template": "Lever.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "cNum_down"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 1,
+                        "Y": 0,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Lever": {
+                    "IsSpringReturn": true,
+                    "IsPinned": true
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "cb324e01-34bf-47a9-970a-b0499c32a6ce",
+            "Template": "Lever.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "dNum_right"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 0,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Lever": {
+                    "IsSpringReturn": true,
+                    "IsPinned": true
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "8e28019e-6035-4ca4-b038-0de38ab14f30",
+            "Template": "Lever.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "bNum_left"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 2,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Lever": {
+                    "IsSpringReturn": true,
+                    "IsPinned": true
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "5c3a762f-15e9-46a8-a7ca-6b76644f8e01",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_V"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 2,
+                        "Y": 0,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "7dc001ad-dc0f-4c3c-b203-a2d7ac8b4c3a",
+                    "InputB": "0db62922-9538-4006-9ca9-919092e9cdf2"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "8ad29d9c-e012-4150-acc2-a97da7edb743",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_H"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 0,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "8e28019e-6035-4ca4-b038-0de38ab14f30",
+                    "InputB": "cb324e01-34bf-47a9-970a-b0499c32a6ce"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "959531a1-8b0c-4589-8d99-d3bdc0be9e16",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_up"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 5,
+                        "Y": 4,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "8ad29d9c-e012-4150-acc2-a97da7edb743",
+                    "InputB": "7dc001ad-dc0f-4c3c-b203-a2d7ac8b4c3a"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fe309d92-d9f3-4a3f-943a-4ee3bcad2911",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_down"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 3,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "8ad29d9c-e012-4150-acc2-a97da7edb743",
+                    "InputB": "0db62922-9538-4006-9ca9-919092e9cdf2"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6d3a6ddf-a60f-4e71-bf97-5fd4264ce9bd",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_right"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 5,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "5c3a762f-15e9-46a8-a7ca-6b76644f8e01",
+                    "InputB": "8e28019e-6035-4ca4-b038-0de38ab14f30"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "9267c656-0718-4308-9deb-cb764a7c6f05",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Control_reset_left"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 3,
+                        "Y": 4,
+                        "Z": 0
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "5c3a762f-15e9-46a8-a7ca-6b76644f8e01",
+                    "InputB": "cb324e01-34bf-47a9-970a-b0499c32a6ce"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "dc65c890-37e8-4c0f-8c9d-5bf32e718d80",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "State_up"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 4,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset",
+                    "InputA": "0db62922-9538-4006-9ca9-919092e9cdf2",
+                    "ResetInput": "959531a1-8b0c-4589-8d99-d3bdc0be9e16"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f6037d7f-e078-4f6b-ae82-ac5926f44661",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "State_down"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset",
+                    "InputA": "7dc001ad-dc0f-4c3c-b203-a2d7ac8b4c3a",
+                    "ResetInput": "fe309d92-d9f3-4a3f-943a-4ee3bcad2911"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "116c75f8-8f95-447a-914e-e00bbb9dbe57",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "State_right"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 5,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset",
+                    "InputA": "8e28019e-6035-4ca4-b038-0de38ab14f30",
+                    "ResetInput": "9267c656-0718-4308-9deb-cb764a7c6f05"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "3adde810-e402-480d-943f-44fb4d9a31a6",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "State_left"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 3,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset",
+                    "InputA": "cb324e01-34bf-47a9-970a-b0499c32a6ce",
+                    "ResetInput": "6d3a6ddf-a60f-4e71-bf97-5fd4264ce9bd"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7b237dfb-a6b6-4331-b6ac-070f076a7de6",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "4_0_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 0,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "f6037d7f-e078-4f6b-ae82-ac5926f44661"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c0f5d8f0-ebce-4a33-afce-c1523dbaa828",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "3_1_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 3,
+                        "Y": 1,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "f6037d7f-e078-4f6b-ae82-ac5926f44661"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0803e022-53ed-4147-b2cd-248108578505",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "4_1_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 1,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "f6037d7f-e078-4f6b-ae82-ac5926f44661"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6f9956d5-5499-4d76-952a-e7b4407773f7",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "5_1_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 5,
+                        "Y": 1,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "f6037d7f-e078-4f6b-ae82-ac5926f44661"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "39a839f3-2634-45b6-befd-f356f056244c",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "3_5_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 3,
+                        "Y": 5,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "dc65c890-37e8-4c0f-8c9d-5bf32e718d80"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "41460c5c-a54d-4156-a08a-f6f2db8e854a",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "4_5_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 5,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "dc65c890-37e8-4c0f-8c9d-5bf32e718d80"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "d4098752-7f00-45ca-89b5-4a7b838f6bbb",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "5_5_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 5,
+                        "Y": 5,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "dc65c890-37e8-4c0f-8c9d-5bf32e718d80"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f44b632e-dee4-4080-a83c-2005975c8fe8",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "4_6_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 4,
+                        "Y": 6,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "dc65c890-37e8-4c0f-8c9d-5bf32e718d80"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6258a159-4cde-486f-9ee7-7508190f80a6",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "2_2_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 2,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "3adde810-e402-480d-943f-44fb4d9a31a6"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "47f9065f-a81d-4ceb-814d-eda3cf85470f",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "2_3_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 2,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "3adde810-e402-480d-943f-44fb4d9a31a6"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e77d0423-344a-4434-836a-7d3811273c07",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "2_4_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 2,
+                        "Y": 4,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "3adde810-e402-480d-943f-44fb4d9a31a6"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "d0d98f60-f140-4d5a-915d-bdf99e5bb405",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "1_3_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 1,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "3adde810-e402-480d-943f-44fb4d9a31a6"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "1668250d-4656-4144-a0aa-2ec10b63e8a5",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "6_2_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 6,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "116c75f8-8f95-447a-914e-e00bbb9dbe57"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2e7cd62c-ff64-41e8-85e8-410fa6c24ec0",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "6_3_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 6,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "116c75f8-8f95-447a-914e-e00bbb9dbe57"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e849df8d-ca1a-4bfd-9e2d-4341b291b325",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "6_4_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 6,
+                        "Y": 4,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "116c75f8-8f95-447a-914e-e00bbb9dbe57"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fa6269f1-e64a-4aa0-8499-eaeef7284339",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "7_3_0Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 7,
+                        "Y": 3,
+                        "Z": 0
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "116c75f8-8f95-447a-914e-e00bbb9dbe57"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b635d432-bc60-47bc-bbfa-4472f5df2215",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "d06d3caa-c33c-4c89-8e7a-bcc23cf0129d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f50f862e-c4a0-458f-92f5-0aabeaf655c1",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "4eabe5fe-c89c-41d0-97f9-5ef589252e3e",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "3909fb89-b25a-4704-854e-c5b74e23658d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 2
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fbaae224-450b-4d89-9e02-6bb626f7052b",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 2
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "efa838f6-e074-47d0-9c8e-4c64504c434d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 2
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "56c1ec10-e3ea-4542-9b38-d6a0ed7d4685",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 2
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fef71b77-374d-4f53-8799-51926f59dd17",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 4
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f11be613-d62c-4ea2-9dfa-60731b3d2bbf",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 4
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fd5dcd4c-e501-46e5-9a6b-d84bd24fc878",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 4
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "ffb14905-4034-4134-8f39-124cb31d90c7",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 4
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "dd833f11-2c71-419a-b469-c6809ffc4c5f",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 6
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0fb3e93d-ac95-492d-8919-0f2f4af312b3",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 6
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "280a90cc-a41b-41b4-b403-522f5509b12d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 6
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0da0b74a-d6b0-4bf4-9b2a-19f9d7508c60",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 6
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "d3e2fa34-9634-4610-afb8-368d94872e0a",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 8
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "36cdb8c9-1ab1-4950-8061-81c5dea22c66",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 8
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "10d69d93-f223-4f74-8231-55f468256e62",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 8
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6cccf19d-0639-4db5-ae55-6cd9ee9c9544",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 8
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fadd4991-be03-4390-b072-af213f147c65",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 10
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0a8a2685-b8d8-430d-a3b0-0db33971ecce",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 10
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "140ff2e6-0c90-49c3-b94b-aceae93f44a6",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 10
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c3c2e16e-4e87-4140-81a9-2145756a83b4",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 10
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "016f34bc-0845-4fa3-90a2-9661845648c2",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 12
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0d689fb6-2536-423b-ba9c-829b0571126b",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 12
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "4d676028-f442-4651-9415-7e05bd805164",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 12
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "12f081f1-be98-4bdd-9425-4b62d322451d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 12
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "4fa1d952-5b3e-4af8-81d0-87bc1f0ceb17",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 14
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fc8222d6-1f87-4ab5-b252-93c8f15536d5",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 14
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "3dad1493-841e-4b86-8841-a8ae2db2f6df",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 14
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e17321e1-fe58-4e1b-aca3-cc0c1b6f5d0f",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 14
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2a126372-d5bc-4f0c-871a-d3f6940a3015",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 16
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e0cd0f31-a83b-4946-b939-9adb474fd745",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 16
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "5d7a6061-f93b-490a-9617-1991e43d33de",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 16
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "22866df0-951e-4c90-800b-7a71fcb0994a",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 16
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "87089696-8809-4a3e-857c-4d6e9a082e29",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 18
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "60a11228-b35f-43cf-a6cb-a62c8ca3ebda",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 18
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "321eb9ac-bccc-41aa-9fc1-645c64d7a563",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 18
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "70c24355-a1e7-4d72-a4ea-e3096dffb7b4",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 18
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "90a39d76-2c01-4e02-9f1e-8fa611a065f2",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 20
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "a27bd465-ed1d-4581-88d5-51fdd7bf06a0",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 20
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "ddd58104-c511-4c3e-a745-60bacca033fc",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 20
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fd0d1e6c-d619-4c85-b0fa-fb4d2e3c3399",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 20
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e057950e-c1a6-4b01-b456-dc1cee931104",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 22
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "634e76ae-409c-4122-9525-0bec1c25cccd",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 22
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "bb3fd092-f8e6-4067-9aec-f69b56aabacf",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 22
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "87017931-7789-472a-89d6-bc3494e9f97e",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 22
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "90912314-41e9-4cb5-aa34-4629d04d1ca5",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 24
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b0adf793-d416-499a-b8c7-751d995ea61a",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 24
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7e2d018d-8ab6-47a6-95bb-7a1276431b9b",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 24
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0eb42f9b-c13d-4173-8d7c-cacb6ef36760",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 24
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f06bc942-cd83-4458-b2ae-b313bd7a65ba",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 26
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b3d3eb05-b735-4536-893b-0abf041d1498",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 26
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "e3fd14a6-1dbd-4833-b51e-ce35a16e75a8",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 26
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7212db62-a8e9-4425-b46c-8c25ae74349d",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 26
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "48c7e19b-dee6-4680-8120-e1063c893f02",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 28
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "4e9d05cf-23d8-4bd2-ac27-484d7d8c5291",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 28
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "14fbfeea-3af8-4c09-890f-9375b695db62",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 28
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f260bb27-ef3a-4741-91e8-d6a8c0503a41",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 28
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f1d2f8cb-e6b7-4552-8215-8ec2433bba7a",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 30
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2b870724-c3d2-4e02-b7e9-1eca868fb93b",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 30
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b4d92d35-becc-47ea-954c-aa50058cb150",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 30
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "191bfb2c-ff74-4c33-bb11-b7a734809fcb",
+            "Template": "DoublePlatform.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 30
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 8
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "59dc1ee6-1c16-423c-918b-322bee053c93",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "16_16_isBody"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2de7f54e-8f0d-4e28-b4db-505e845a0ddf",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "16_16_isHead"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "a4707112-5709-4154-9302-6f89a19aa466",
+            "Template": "Memory.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "16_16_isFood"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 0
+                    }
+                },
+                "Memory": {
+                    "Mode": "SetReset"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Extract",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2c7e96b5-d9ea-4f50-a13d-17d2c6943946",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "16_16_32Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 32
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "59dc1ee6-1c16-423c-918b-322bee053c93"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2e73ae51-f70b-4d5c-a80e-63a32928a452",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "17_16_32Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 32
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "59dc1ee6-1c16-423c-918b-322bee053c93"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "ae829f36-7338-4ff0-8f8e-fe7e5e1a2c3c",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "16_17_32Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 32
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "59dc1ee6-1c16-423c-918b-322bee053c93"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "ad7a011f-342a-4897-8c7c-febd62fd11ae",
+            "Template": "Indicator.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "17_17_32Lamp"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 32
+                    }
+                },
+                "Indicator": {},
+                "Automatable": {
+                    "Input": "59dc1ee6-1c16-423c-918b-322bee053c93"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "ScrapMetal",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "PineResin",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f4bc8fb8-2cea-48c5-bfb7-11c42adf0237",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_OR_1_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 2
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "12313a0f-ed01-4b33-9010-22b193997dbb",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_OR_1_2"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 2
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2886f1e9-4df2-4533-86f5-c8fa827b314a",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_AND_1_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 2
+                    }
+                },
+                "Relay": {
+                    "Mode": "And"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b4e5b6c1-0d3d-48cb-bfc6-ddfa76e8b8a3",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_AND_1_2"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 2
+                    }
+                },
+                "Relay": {
+                    "Mode": "And"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "a7945a2d-7747-48f1-9e34-8a75e8b39599",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_OR_2_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 4
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "f4bc8fb8-2cea-48c5-bfb7-11c42adf0237",
+                    "InputB": "12313a0f-ed01-4b33-9010-22b193997dbb"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7e8f4d75-085e-4d92-9442-336e734dec6f",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_OR_2_2"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 4
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "2886f1e9-4df2-4533-86f5-c8fa827b314a",
+                    "InputB": "b4e5b6c1-0d3d-48cb-bfc6-ddfa76e8b8a3"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "249e69e8-11c9-465d-9695-2d99b460588c",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_AND_2_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 4
+                    }
+                },
+                "Relay": {
+                    "Mode": "And",
+                    "InputA": "f4bc8fb8-2cea-48c5-bfb7-11c42adf0237",
+                    "InputB": "12313a0f-ed01-4b33-9010-22b193997dbb"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "23dd2ace-1b77-4896-bc27-43594d75dcb7",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_AND_2_2"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 4
+                    }
+                },
+                "Relay": {
+                    "Mode": "And",
+                    "InputA": "2886f1e9-4df2-4533-86f5-c8fa827b314a",
+                    "InputB": "b4e5b6c1-0d3d-48cb-bfc6-ddfa76e8b8a3"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c16f69be-3e12-42f3-9a97-910421701024",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_AND_3_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 6
+                    }
+                },
+                "Relay": {
+                    "Mode": "And",
+                    "InputA": "a7945a2d-7747-48f1-9e34-8a75e8b39599",
+                    "InputB": "23dd2ace-1b77-4896-bc27-43594d75dcb7"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "fd2441d7-c229-4ef5-9f9e-ece4ae359305",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_OR_3_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 6
+                    }
+                },
+                "Relay": {
+                    "Mode": "Or",
+                    "InputA": "a7945a2d-7747-48f1-9e34-8a75e8b39599",
+                    "InputB": "23dd2ace-1b77-4896-bc27-43594d75dcb7"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "77085862-d354-4f32-a59f-cbfd3f0476f7",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_NOT_1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 17,
+                        "Z": 6
+                    }
+                },
+                "Relay": {
+                    "Mode": "Not",
+                    "InputA": "c16f69be-3e12-42f3-9a97-910421701024"
+                },
+                "Automator": {
+                    "State": "On"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c821ffc2-b15a-4127-b71f-b0bece370c84",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_Exactly_two"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 16,
+                        "Z": 8
+                    }
+                },
+                "Relay": {
+                    "Mode": "And",
+                    "InputA": "77085862-d354-4f32-a59f-cbfd3f0476f7",
+                    "InputB": "fd2441d7-c229-4ef5-9f9e-ece4ae359305"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "52f2e7ed-9229-4413-a09e-c65a103d498e",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_NOT_2"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 17,
+                        "Z": 6
+                    }
+                },
+                "Relay": {
+                    "Mode": "Not",
+                    "InputA": "fd2441d7-c229-4ef5-9f9e-ece4ae359305"
+                },
+                "Automator": {
+                    "State": "On"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2eb67225-fe46-48ac-976f-c5b81797a498",
+            "Template": "Relay.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "in_body_Exactly_one"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 17,
+                        "Y": 16,
+                        "Z": 8
+                    }
+                },
+                "Relay": {
+                    "Mode": "And",
+                    "InputA": "52f2e7ed-9229-4413-a09e-c65a103d498e",
+                    "InputB": "7e8f4d75-085e-4d92-9442-336e734dec6f"
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 1
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "526e5b2b-a092-4f1c-a24c-1d45058d0277",
+            "Template": "GravityBattery.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 19,
+                        "Y": 1,
+                        "Z": 0
+                    }
+                },
+                "LayeredVerticalBlockObstacle": {
+                    "OccupancyRange": 0.0
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 10
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "994f2170-9259-43af-bfe7-758d48a936c0",
+            "Template": "GravityBattery.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 22,
+                        "Y": 3,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "LayeredVerticalBlockObstacle": {
+                    "OccupancyRange": 0.0
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 10
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7233a8b4-5acd-447e-b0ef-69e7188e5987",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 18,
+                        "Y": 8,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6c7668c4-d69c-4215-93d2-bd1e1f271285",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 8,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "79943924-21d5-4af4-8137-14da7e9b5581",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 7,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "cd170288-793c-4ca1-9fe8-462eef394c31",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 14,
+                        "Y": 8,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "0f3f3afc-b493-472b-9bd1-5d486c4c98d4",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 13,
+                        "Y": 8,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "b9b5eb44-bcd6-4897-9223-39179f350f39",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 11,
+                        "Y": 8,
+                        "Z": 0
+                    }
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6097ecd8-e8ef-4371-b21e-336f51f3fc46",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 11,
+                        "Y": 7,
+                        "Z": 0
+                    }
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6f300053-686a-4e47-b51c-f004cd50e874",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 10,
+                        "Y": 7,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f0ecf2d8-3067-4645-92cb-b31a1fb9662c",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 11,
+                        "Y": 6,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "653dd948-55af-452f-8e06-d3f3020f7f35",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 12,
+                        "Y": 7,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "2f19c8bf-ffe4-4bf4-b365-e56e77fa588c",
+            "Template": "VerticalPowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 13,
+                        "Y": 6,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Plank",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c3b34ae0-3263-4912-8126-48416ef626d7",
+            "Template": "VerticalPowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 11,
+                        "Y": 5,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Plank",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "53006450-fefd-4739-af44-b5b7b04b0c11",
+            "Template": "VerticalPowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 9,
+                        "Y": 7,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Plank",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "98288b43-6d18-4a1e-a9bf-ef82d92cfed0",
+            "Template": "Clutch.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 13,
+                        "Y": 5,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Clutch": {
+                    "Mode": "Engaged"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "c2ec246e-8585-4664-a10a-3263c650a66d",
+            "Template": "Clutch.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 10,
+                        "Y": 5,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw180"
+                },
+                "Clutch": {
+                    "Mode": "Engaged"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f9c08078-ea18-44e3-9390-f866d4abded6",
+            "Template": "RecoveredGoodStack",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 16,
+                        "Y": 2,
+                        "Z": 0
+                    }
+                },
+                "RecoveredGoodStackModel": {
+                    "Rotation": 216
+                },
+                "RecoveredGoodStackDisintegration": {
+                    "DisintegrationTime": 0.0
+                },
+                "Inventory:GoodStack": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 9
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "f8aaa501-929a-4313-9b69-ac42484e9cd9",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 9,
+                        "Y": 0,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "db6d8fa1-25f3-4f83-847b-f3e917b14ff6",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 10,
+                        "Y": 0,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "7a288e50-fd81-48c1-8285-a9ae71aae6f2",
+            "Template": "Clutch.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 9,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Clutch": {
+                    "Mode": "Engaged"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "6f0ccd61-e5c0-45d0-9029-c896f5ccdc98",
+            "Template": "Clutch.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 10,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw90"
+                },
+                "Clutch": {
+                    "Mode": "Engaged"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Gear",
+                                "Amount": 2
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "03e05472-a9fb-4d52-be43-701a43d29d8c",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 9,
+                        "Y": 2,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "28053301-fe74-45f6-ba99-4cbcb4f07538",
+            "Template": "PowerShaft.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 10,
+                        "Y": 2,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Log",
+                                "Amount": 1
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "246fb3f3-02a2-474d-9462-f62b8eaeffc1",
+            "Template": "PowerMeter.IronTeeth",
+            "Components": {
+                "NamedEntity": {
+                    "EntityName": "Power Meter 1"
+                },
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 8,
+                        "Y": 0,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "PowerMeter": {
+                    "Mode": "BatteryChargeLevel",
+                    "ComparisonMode": "Greater",
+                    "IntThreshold": 0,
+                    "PercentThreshold": 0.5
+                },
+                "Automator": {
+                    "State": "Off"
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Gear",
+                                "Amount": 10
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 6
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        {
+            "Id": "82a26509-1b28-4d55-b25c-9175c2a7106a",
+            "Template": "GravityBattery.IronTeeth",
+            "Components": {
+                "BlockObject": {
+                    "Coordinates": {
+                        "X": 9,
+                        "Y": 1,
+                        "Z": 0
+                    },
+                    "Orientation": "Cw270"
+                },
+                "LayeredVerticalBlockObstacle": {
+                    "OccupancyRange": 0.0
+                },
+                "Inventory:ConstructionSite": {
+                    "Storage": {
+                        "Goods": [
+                            {
+                                "Good": "Plank",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "Gear",
+                                "Amount": 40
+                            },
+                            {
+                                "Good": "MetalBlock",
+                                "Amount": 10
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    ]
 }

@@ -166,8 +166,6 @@ def place_logic(px, py):
     update_control_OR(px, py, "set", and8_1["Id"])
     update_control_OR(px, py, "reset", and8_2["Id"])
 
-
-
     entities.append(and1_1)
     entities.append(and1_2)
     entities.append(and1_3)

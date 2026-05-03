@@ -2,3 +2,10 @@
 ./ipynb_checkpoints
 ./venv/*
 ./venv
+test.sh
+./force/node_modules/*
+./force/node_modules
+./bad_idea/frames/*
+./bad_idea/frames
+./badapple-frames/*
+./badapple-frames

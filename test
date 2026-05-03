@@ -1,0 +1,52 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   .gitignore
+	modified:   Makefile
+	modified:   TimberPy.ipynb
+	new file:   bad_idea/test.py
+	new file:   bad_idea/trim_images.sh
+	new file:   bad_idea/world.json
+	renamed:    test.py -> conway.py
+	new file:   debug
+	new file:   gameWorlds
+	new file:   main.py
+	new file:   saves/_old_template_world.json
+	modified:   saves/_template_world.json
+	new file:   saves/empty.timber
+	modified:   saves/save_metadata.json
+	modified:   saves/save_thumbnail.jpg
+	new file:   saves/snaaake.timber
+	modified:   saves/version.txt
+	modified:   saves/world.json
+	new file:   test_unzio/PowerTools.timber
+	new file:   test_unzio/save_metadata.json
+	new file:   test_unzio/save_thumbnail.jpg
+	new file:   test_unzio/version.txt
+	new file:   test_unzio/world.json
+	new file:   tmp/empty.timber
+	new file:   tmp/save_metadata.json
+	new file:   tmp/save_thumbnail.jpg
+	new file:   tmp/single.timber
+	new file:   tmp/version.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    test_unzio/PowerTools.timber
+	deleted:    test_unzio/save_metadata.json
+	deleted:    test_unzio/save_thumbnail.jpg
+	deleted:    test_unzio/version.txt
+	deleted:    test_unzio/world.json
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	bad_idea/frames.zip
+	bad_idea/frames/
+	badapple-frames/
+	force/
+	test
+	test_unzip/
+
